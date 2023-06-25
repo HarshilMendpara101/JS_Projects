@@ -15,7 +15,7 @@ const clock = () => {
   inputs[2].value = Math.floor(diff / 60) % 60;
   inputs[3].value = Math.floor(diff % 60);
   console.log("hello form the other side");
-  console.log("my name is harshil")
+  console.log("my name is shyam")
 }
 
 clock();
